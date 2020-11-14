@@ -1,4 +1,4 @@
-# PPM Tool - Deployed version
+# PPM Tool - Deployed Version
 
 ## PPM: Personal Project Management Tool
 
